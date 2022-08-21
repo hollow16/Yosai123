@@ -5,16 +5,12 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
-  ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
-  ['51940617554', '👑 Mystic - Collaborator 3 👑', true],
-  ['5219992095479'],
-  ['5219991402134'],
-  ['5219993404349'],
-  ['5219996125657']
+  ['14804620427', 'bot', true],
+  ['595986827546', 'Nazicamp', true],
+  ['34747741456', 'Hollogram', true],
+  ['12722827545', 'Columbia simp', true]
 ] // Cambia los numeros que quieras
-global.suittag = ['5219993404349'] 
+global.suittag = ['595986827546'] 
 global.mods = [] 
 global.prems = [] 
 
